@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: snow;
+}
+
+.main{
+    width: 70%;
+    float: left;
+}
+
+.main-first{
+    height: 400px;
+}
+
+.main-second{
+    height: 400px;
+    font-size: 150%;
+}
+
+.main h2{
+    text-align: center;
+    font-size: 250%;
+}
+
+.main img{
+    width: 600px;
+    padding: 4px;
+}
+
+.main img:hover{
+    padding: 3px;
+    border: 1px solid steelblue;
+}
+
+
+
+
+
+
+
+.menu{
+    width: 30%;
+    float: right;
+    background-color: steelblue;
+    color: white;
+}
+
+.menu-first{
+    height: 150px;
+}
+
+.menu h2{
+    text-align: center;
+    font-size: 250%;
+}
+
+.menu-second{
+    height: 350px;
+    font-size: 100%;
+}
+
+.menu-third {
+    background-color: snow;
+    height: 300px;
+}
+.menu-third img{
+    height: 290px;
+}
+
+footer{
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    background-color: steelblue;
+    color: white;
+}
